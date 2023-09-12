@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mrPerera369/mrPerera/assets/144612522/66ed38a0-1090-444c-b085-22bb2a09e203)](https://rishavchanda.io)
+[![MasterHead](https://github.com/mrPerera369/mrPerera369/assets/144612522/aff08556-a3cf-41f4-9140-aed6b3653884)](https://rishavchanda.io)
 <h1 align="center">
   <a href = "https://git.io/typing-svg">
     <img src ="https://readme-typing-svg.demolab.com/?font=Architects Daughter&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👻;I'm+mr+Perera!;"/>
@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <br>
-<img align="right" alt="Coding" width="300" src="https://github.com/mrPerera369/mrPerera/assets/144612522/f807115f-852a-42d1-88cb-f21eea72c89b">
+<img align="right" alt="Coding" width="300" src="https://github.com/mrPerera369/mrPerera369/assets/144612522/f6f34e5f-b8fd-488a-af64-2906d7fc5e7b">
 
 
 
