@@ -36,9 +36,8 @@
 
 
 <h3 align="left">Connect with me</h3>
-<p align="left">
-<p align="left">
-</p>
+<a href="https://www.thusharaperera201@gmail.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrPerera369/mrPerera369/blob/main/icons8-gmail.svg" alt="blender" width="40" height="40"/> </a>
+
 
 
 ## 
@@ -54,16 +53,7 @@
 <h3 align="center">Stats </h3>
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats">
 
-<img width=390 src="https://streak-stats.demolab.com/?user=mrPerera369&theme=transparent&border=none" alt="streak stats" />
-
-
-
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=mrPerera369&theme=transparent&show_icons=true&rank_icon=github&border_radius=10" alt="mrPerera369" />
-
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=mrPerera369&theme=transparent&show_icons=true&locale=en&border_radius=10" alt="mrPerera369" />
-</a><br/>
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrPerera369&theme=transparent&border_radius=10" />
