@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on frontend developer
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about js
-- 📫 How to reach me: Email <a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="15" /> </a>
+- 📫 How to reach me: Email &nbsp;<a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="15" /> </a>
 - 😄 Pronouns: English, spanish, sinhala
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
