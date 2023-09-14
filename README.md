@@ -37,7 +37,8 @@
 
 <h3 align="center">Connect with me</h3>
 <br>
-<a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" alt="Gmail" width="30" /> </a>
+<a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" alt="Gmail" align="center" width="30" /> </a>
+&nbsp;<a href="https://github.com/mrPerera369" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/github.svg" alt="Github" align="center" width="26" /> </a>
 
 
 
