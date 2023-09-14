@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on frontend developer
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about js
-- 📫 How to reach me: Email <a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="20" /> </a>
+- 📫 How to reach me: Email <a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="10" /> </a>
 - 😄 Pronouns: English, spanish, sinhala
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
@@ -37,8 +37,8 @@
 
 <h3 align="center">Connect with me</h3>
 <br>
-<a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" alt="Gmail" align="center" width="20" /> </a>
-&nbsp;<a href="https://github.com/mrPerera369" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/github.svg" alt="Github" align="center" width="20" /> </a>
+<a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" alt="Gmail" align="center" width="25" /> </a>
+&nbsp;<a href="https://github.com/mrPerera369" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/github.svg" alt="Github" align="center" width="25" /> </a>
 
 
 
