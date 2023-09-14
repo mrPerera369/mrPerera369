@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on frontend developer
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about js
-- 📫 How to reach me: Email <a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="10" /> </a>
+- 📫 How to reach me: Email <a href="mailto:thusharaperera201@gmail.com" > <img src="https://github.com/mrPerera369/mrPerera369/blob/main/email.svg" align="center" alt="Gmail" width="15" /> </a>
 - 😄 Pronouns: English, spanish, sinhala
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on ...
@@ -48,19 +48,19 @@
 <h3 align="center">Languages and Tools</h3>
 <br>
 <p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="26" /> </a>
-  &nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrPerera369/mrPerera369/blob/main/visual-studio-code%20svg.svg" alt="visualstudio" width="26" /> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" /> </a>
+  &nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrPerera369/mrPerera369/blob/main/visual-studio-code%20svg.svg" alt="visualstudio" width="25" /> </a>
   &nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26"/> </a> 
-  &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26"/> </a> 
-  &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26"/> </a> 
-  &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26"/> </a>
-  &nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26"/> </a> 
-  &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26"/> </a>
-  &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="26"/> </a>
-  &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a> 
-  &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="26"/> </a> 
-  &nbsp;<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="26"/> </a>
- &nbsp; <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrPerera369/mrPerera369/blob/main/icons8-autocad.svg" alt="react" width="26"/> </a> </p>
+  &nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25"/> </a> 
+  &nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25"/> </a> 
+  &nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25"/> </a>
+  &nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="25"/> </a> 
+  &nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25"/> </a>
+  &nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="25"/> </a>
+  &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25"/> </a> 
+  &nbsp;<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25"/> </a> 
+  &nbsp;<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="25"/> </a>
+ &nbsp; <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/mrPerera369/mrPerera369/blob/main/icons8-autocad.svg" alt="react" width="25"/> </a> </p>
 
 
 
