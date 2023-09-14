@@ -7,7 +7,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://github.com/mrPerera369/mrPerera369/blob/main/p1.svg">
-<img align="right" alt="Coding" width="200"src="https://github.com/mrPerera369/mrPerera369/blob/main/anime3.gif">
+<img align="right" alt="Coding" src="https://github.com/mrPerera369/mrPerera369/blob/main/a2.gif">
 
 
 
